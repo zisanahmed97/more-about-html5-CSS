@@ -1,0 +1,16 @@
+nav li a{
+text-decoration: none;
+
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 15px;
+}
+nav li:hover{
+    background-color: chocolate;
+}
+footer{
+    text-align: center;
+    color: rgb(52, 34, 12);
+}
