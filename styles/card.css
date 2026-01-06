@@ -1,0 +1,38 @@
+.body{
+    max-width: 1170px;
+    margin:0 auto;
+    background-color: rgb(173, 98, 0);
+   
+}
+
+.card{
+    width:300px;
+    border: 2px solid sandybrown;
+    border-radius: 10px;
+    padding:10px;
+    box-shadow: 10px 10px 10px black;
+    text-align: justify;
+  
+}
+
+.card img{
+    width:100%;
+    border-radius: 10px;
+
+
+}
+.card-container button:hover{
+    background-color: brown;
+}
+.card:hover{
+    background-color: burlywood;
+}
+.card-container{
+    display: flex;
+    gap: 40px;
+   flex-wrap: wrap;
+    
+}
+.card-section{
+    text-align: center;
+}
