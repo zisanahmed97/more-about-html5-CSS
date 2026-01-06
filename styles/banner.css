@@ -1,0 +1,29 @@
+.hero-container{
+display: flex;
+align-items: center;
+gap: 20px;
+background-color: rgb(28, 243, 154);
+padding: 100px;
+border-radius: 25%;
+
+}
+.hero-container img{
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+}
+
+.hero-container h1{
+    color: brown;
+    font-weight: bolder;
+}
+
+.hero-container button{
+    color: blueviolet;
+    background-color: chartreuse;
+}
+body{
+    max-width: 1270px;
+    background-color: bisque;
+    margin: 0px auto;
+}
